@@ -1,0 +1,442 @@
+[
+  {
+    "repo": "appsmithorg/appsmith",
+    "category": "admin",
+    "description": "Platform to build admin panels and internal tools.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "baserow/baserow",
+    "category": "admin",
+    "description": "Open-source no-code database and Airtable alternative.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "Budibase/budibase",
+    "category": "admin",
+    "description": "Low-code platform for internal apps.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "nocodb/nocodb",
+    "category": "admin",
+    "description": "Open-source Airtable alternative that turns databases into spreadsheets.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "refinedev/refine",
+    "category": "admin",
+    "description": "React framework for building admin panels and internal tools.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-10"
+  },
+  {
+    "repo": "ToolJet/ToolJet",
+    "category": "admin",
+    "description": "Low-code platform for internal tools.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "growthbook/growthbook",
+    "category": "analytics",
+    "description": "Feature flags and A/B testing.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "openreplay/openreplay",
+    "category": "analytics",
+    "description": "Session replay and product analytics you can self-host.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "plausible/analytics",
+    "category": "analytics",
+    "description": "Simple, privacy-friendly web analytics.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "PostHog/posthog",
+    "category": "analytics",
+    "description": "Product analytics, session replay, feature flags and experiments.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "umami-software/umami",
+    "category": "analytics",
+    "description": "Privacy-focused web analytics.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Unleash/unleash",
+    "category": "analytics",
+    "description": "Open-source feature management platform.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "authelia/authelia",
+    "category": "auth",
+    "description": "Single sign-on and two-factor portal for web apps.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "better-auth/better-auth",
+    "category": "auth",
+    "description": "Authentication framework for TypeScript.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "casdoor/casdoor",
+    "category": "auth",
+    "description": "Identity and access management with SSO and OAuth.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "goauthentik/authentik",
+    "category": "auth",
+    "description": "Open-source identity provider.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "keycloak/keycloak",
+    "category": "auth",
+    "description": "Open-source identity and access management.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "lucia-auth/lucia",
+    "category": "auth",
+    "description": "Resources for implementing your own auth.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-08"
+  },
+  {
+    "repo": "nextauthjs/next-auth",
+    "category": "auth",
+    "description": "Authentication for the web, now Auth.js.",
+    "license": "ISC",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-22"
+  },
+  {
+    "repo": "ory/kratos",
+    "category": "auth",
+    "description": "Cloud-native identity and user management.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-29"
+  },
+  {
+    "repo": "supertokens/supertokens-core",
+    "category": "auth",
+    "description": "Open-source authentication with session management.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "zitadel/zitadel",
+    "category": "auth",
+    "description": "Identity infrastructure for apps with multi-tenancy.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "appwrite/appwrite",
+    "category": "backend",
+    "description": "Backend platform for web and mobile apps.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "directus/directus",
+    "category": "backend",
+    "description": "Data platform and headless CMS for any SQL database.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "hasura/graphql-engine",
+    "category": "backend",
+    "description": "Instant GraphQL APIs on your data.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "nhost/nhost",
+    "category": "backend",
+    "description": "Open-source backend with Postgres, GraphQL and auth.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "pocketbase/pocketbase",
+    "category": "backend",
+    "description": "Open-source backend in one file, with a database and auth.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "supabase/supabase",
+    "category": "backend",
+    "description": "Open-source Postgres development platform, an alternative to Firebase.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "getlago/lago",
+    "category": "billing",
+    "description": "Open-source usage-based billing and metering.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "juspay/hyperswitch",
+    "category": "billing",
+    "description": "Open-source payments switch that routes across processors.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "killbill/killbill",
+    "category": "billing",
+    "description": "Open-source subscription billing and payments platform.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "polarsource/polar",
+    "category": "billing",
+    "description": "Open-source platform for monetizing software.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "stripe/stripe-node",
+    "category": "billing",
+    "description": "Official Stripe library for Node.js.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "facebook/docusaurus",
+    "category": "docs",
+    "description": "Build optimized documentation websites with React.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "louislam/uptime-kuma",
+    "category": "docs",
+    "description": "Self-hosted uptime monitoring tool.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "upptime/upptime",
+    "category": "docs",
+    "description": "Uptime monitor and status page powered by GitHub Actions.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "knadh/listmonk",
+    "category": "email",
+    "description": "Self-hosted newsletter and mailing list manager.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "mjmlio/mjml",
+    "category": "email",
+    "description": "Markup language that makes responsive email easy.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "novuhq/novu",
+    "category": "email",
+    "description": "Open-source notification infrastructure for email, SMS, push and in-app.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "postalserver/postal",
+    "category": "email",
+    "description": "Open-source mail delivery platform.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-06"
+  },
+  {
+    "repo": "resend/react-email",
+    "category": "email",
+    "description": "Build and send emails with React.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "usesend/useSend",
+    "category": "email",
+    "description": "Open-source alternative to Resend and SendGrid.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "caddyserver/caddy",
+    "category": "hosting",
+    "description": "Fast web server with automatic HTTPS.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "caprover/caprover",
+    "category": "hosting",
+    "description": "Scalable PaaS that runs on your own server.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "coollabsio/coolify",
+    "category": "hosting",
+    "description": "Self-hostable alternative to Heroku and Vercel.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "dokku/dokku",
+    "category": "hosting",
+    "description": "Docker-powered mini Heroku you can run yourself.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "Dokploy/dokploy",
+    "category": "hosting",
+    "description": "Self-hostable alternative to Vercel, Netlify and Heroku.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "portainer/portainer",
+    "category": "hosting",
+    "description": "Web UI to manage Docker and Kubernetes.",
+    "license": "Zlib",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "traefik/traefik",
+    "category": "hosting",
+    "description": "Cloud-native reverse proxy and load balancer.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "apptension/saas-boilerplate",
+    "category": "starter",
+    "description": "Boilerplate for building SaaS apps with Django, React and AWS.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "boxyhq/saas-starter-kit",
+    "category": "starter",
+    "description": "Enterprise-ready SaaS starter kit with teams, SSO and billing.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-20"
+  },
+  {
+    "repo": "ixartz/SaaS-Boilerplate",
+    "category": "starter",
+    "description": "Next.js SaaS boilerplate with auth, multi-tenancy and billing.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-01"
+  },
+  {
+    "repo": "nextjs/saas-starter",
+    "category": "starter",
+    "description": "Official Next.js starter with Stripe and auth.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2025-12-11"
+  },
+  {
+    "repo": "nextjs/saas-starter",
+    "category": "starter",
+    "description": "Next.js SaaS starter with Stripe payments and a dashboard.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2025-12-11"
+  },
+  {
+    "repo": "wasp-lang/open-saas",
+    "category": "starter",
+    "description": "Free, open-source SaaS template built on Wasp, React and Node.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  }
+]

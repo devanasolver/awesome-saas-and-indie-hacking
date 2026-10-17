@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "MRR",
+  "AUTH",
+  "BILLING",
+  "STARTER",
+  "TENANT",
+  "SIGNUP",
+  "CHURN",
+  "API",
+  "DEPLOY",
+  "STRIPE",
+  "ONBOARD",
+  "ADMIN",
+  "WEBHOOK",
+  "TRIAL",
+  "PLAN",
+  "LAUNCH"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "SaaS and Indie Hacking",
+  " Tools"
+ ],
+ "title_size": 88,
+ "sub1": "STARTERS  |  AUTH  |  BILLING",
+ "sub2": "ANALYTICS  |  EMAIL  |  HOSTING",
+ "foot": "Open-source tools for small software businesses, each checked for license and activity"
+}
