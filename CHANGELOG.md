@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add SiteWatcher for self-hosted website monitoring.
+
 ## 2026-10-18
 
 - First version: 55 verified repos in 9 categories.

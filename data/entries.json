@@ -272,6 +272,14 @@
     "last_commit": "2026-10-16"
   },
   {
+    "repo": "NikKurkov/sitewatcher",
+    "category": "docs",
+    "description": "Self-hosted uptime and response-time monitoring with TLS and domain expiry alerts (by the author).",
+    "license": "MIT",
+    "verified": "2026-11-25",
+    "last_commit": "2026-11-23"
+  },
+  {
     "repo": "louislam/uptime-kuma",
     "category": "docs",
     "description": "Self-hosted uptime monitoring tool.",
