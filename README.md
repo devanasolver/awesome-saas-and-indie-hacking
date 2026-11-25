@@ -131,6 +131,7 @@ Public pages that build trust.
 
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) ![stars](https://img.shields.io/github/stars/facebook/docusaurus?style=flat&label=%E2%98%85) - Build optimized documentation websites with React. _(MIT)_
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) ![stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=flat&label=%E2%98%85) - Self-hosted uptime monitoring tool. _(MIT)_
+- [NikKurkov/sitewatcher](https://github.com/NikKurkov/sitewatcher) ![stars](https://img.shields.io/github/stars/NikKurkov/sitewatcher?style=flat&label=%E2%98%85) - Self-hosted uptime and response-time monitoring with TLS and domain expiry alerts (by the author). _(MIT)_
 - [upptime/upptime](https://github.com/upptime/upptime) ![stars](https://img.shields.io/github/stars/upptime/upptime?style=flat&label=%E2%98%85) - Uptime monitor and status page powered by GitHub Actions. _(MIT)_
 
 ## How to choose
